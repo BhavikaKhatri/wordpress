@@ -23,18 +23,10 @@ Nonces: Use nonces for security to ensure requests come from legitimate sources.
 Debugging
 Browser Console: Check for JavaScript errors.
 Network Tab: Monitor Ajax requests and responses.
-Common Use Cases
-Form Submission
-Dynamic Content Loading
-User Interactions
-Installation
-Provide installation instructions here.
 
-Usage
-Describe how to use the project.
+Common Use Cases: 
+1.Form Submission
+2.Dynamic Content Loading
+3.User Interactions
 
-Contributing
-Provide guidelines for contributing.
 
-License
-Include license information here.
