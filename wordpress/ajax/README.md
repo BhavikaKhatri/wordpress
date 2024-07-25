@@ -24,9 +24,9 @@ Debugging
 Browser Console: Check for JavaScript errors.
 Network Tab: Monitor Ajax requests and responses.
 
-Common Use Cases: 
-1.Form Submission
-2.Dynamic Content Loading
-3.User Interactions
+Common Use Cases:
+1. Form Submission
+2. Dynamic Content Loading
+3. User Interactions
 
 
