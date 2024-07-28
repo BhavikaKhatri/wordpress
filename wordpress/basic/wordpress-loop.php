@@ -17,6 +17,14 @@ if ( have_posts() ) :
                 ?>
             </div>
         <?php endif; ?>
+
+         <?php 
+        $post_thumbnail_url = get_the_post_thumbnail_url();
+        if ( !empty($post_thumbnail_url) : ?>
+            <div>
+                 <img src="<?php echo  $post_thumbnail_url;?>"/>
+            </div>
+        <?php endif; ?>
         
         <!-- Display the content of the post -->
         <div><?php the_content(); ?></div>
